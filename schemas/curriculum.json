@@ -1,0 +1,20 @@
+{
+  "personal_info": {
+    "name": "string",
+    "title": "string"
+  },
+  "experience": [
+    {
+      "role": "string",
+      "company": "string",
+      "description": "string"
+    }
+  ],
+  "skills": ["string"],
+  "education": [
+    {
+      "degree": "string",
+      "institution": "string"
+    }
+  ]
+}

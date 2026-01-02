@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.out
+
+# Secrets
+.env
+*.key
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# PDFs / outputs
+resume.pdf

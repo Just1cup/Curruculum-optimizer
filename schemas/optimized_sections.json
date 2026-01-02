@@ -1,0 +1,9 @@
+{
+  "experience": [
+    {
+      "index": "number",
+      "optimized_description": "string"
+    }
+  ],
+  "skills": ["string"]
+}
